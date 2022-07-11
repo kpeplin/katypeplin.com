@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to butttown!"
 date:   2022-07-11 18:18:10 -0400
 categories: jekyll update
 ---
